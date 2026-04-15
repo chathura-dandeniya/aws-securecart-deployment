@@ -394,3 +394,9 @@ To avoid ongoing charges, terminate or delete the following resources after the 
 ---
 
 *Built as part of a hands-on AWS Solutions Architect portfolio project.*
+
+## 👨‍💻 Author
+
+**Chathura Dandeniya**
+- GitHub: [@chathura-dandeniya](https://github.com/chathura-dandeniya)
+- LinkedIn: [linkedin.com/in/chathura-dandeniya](https://www.linkedin.com/in/chathura-dandeniya-7913b022b/)
